@@ -1,6 +1,6 @@
 # Eye Exercise
 
-Displays a pair of eyes that tracks mouse cursor movement
+This project displays a pair of eyes against a background. The pupils of the eyes will track according to the user's mouse cursor movement.
 
 Run by dragging index.html to your browser
 
